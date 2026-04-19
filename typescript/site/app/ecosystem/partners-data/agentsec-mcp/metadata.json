@@ -1,0 +1,7 @@
+{
+  "name": "AgentSec MCP",
+  "description": "Pay-per-call security intelligence via x402. CVE vulnerability lookup ($0.01), IP/domain reputation check ($0.01), and secret/credential scanning ($0.05). MCP-native server, USDC on Base. No API keys required — just pay per call.",
+  "logoUrl": "/logos/agentsec-mcp.webp",
+  "websiteUrl": "https://agentsec-mcp-site.pages.dev",
+  "category": "Services/Endpoints"
+}
